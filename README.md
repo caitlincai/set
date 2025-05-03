@@ -1,2 +1,2 @@
 # set
-AP CS A semester 2 final project ~ created sophomore year of high school
+AP CS A semester two final project ~ created sophomore year of high school
